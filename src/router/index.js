@@ -1,4 +1,5 @@
 import Vue from 'vue'
+// import VueRouter from 'vue-router'
 import VueRouter from './myRouter'
 import HomeView from '../views/HomeView.vue'
 
